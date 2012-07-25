@@ -1,1 +1,2 @@
-Published: Type(Interger/Unsigned Integer), will improve if bug in eck get fixed: http://drupal.org/node/1650990
+ECK Extras - Drupal module.
+http://drupal.org/project/1700728
